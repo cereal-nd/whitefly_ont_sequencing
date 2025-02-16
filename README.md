@@ -2,5 +2,5 @@
 This repository contains all scripts and tools used for the analysis of ONT sequence data generated from cassava whiteflies (_Bemisia tabaci_):
 - project mindmap
 - bioinformatics pipeline
-- scripts
+- Jupyter notebooks outlining the code used for analysis
 - selected output files
