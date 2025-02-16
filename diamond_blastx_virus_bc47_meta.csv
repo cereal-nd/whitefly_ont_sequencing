@@ -1,0 +1,3 @@
+# DIAMOND v2.0.11. http://github.com/bbuchfink/diamond
+# Invocation: diamond blastx --very-sensitive --threads 8 --db /projects/medium/whitefly_ont/diamond/virusdb.dmnd --header --outfmt 6 qtitle stitle qstart qend sstart send evalue bitscore length pident mismatch gapopen --query /projects/medium/whitefly_ont/polishing/medaka_bc47_meta/consensus.fasta -o diamond_blastx_virus_bc47_meta.csv
+# Fields: Query title, Subject title, Start of alignment in query, End of alignment in query, Start of alignment in subject, End of alignment in subject, Expected value, Bit score, Alignment length, Percentage of identical matches, Number of mismatches, Number of gap openings

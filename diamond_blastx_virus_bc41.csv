@@ -1,0 +1,10 @@
+# DIAMOND v2.0.11. http://github.com/bbuchfink/diamond
+# Invocation: diamond blastx --very-sensitive --threads 8 --db /projects/medium/whitefly_ont/diamond/virusdb.dmnd --header --outfmt 6 qtitle stitle qstart qend sstart send evalue bitscore length pident mismatch gapopen --query /projects/medium/whitefly_ont/polishing/medaka_bc41/consensus.fasta -o diamond_blastx_virus_bc41.csv
+# Fields: Query title, Subject title, Start of alignment in query, End of alignment in query, Start of alignment in subject, End of alignment in subject, Expected value, Bit score, Alignment length, Percentage of identical matches, Number of mismatches, Number of gap openings
+contig_11	NP_048132.1 Reverse transcriptase [Melanoplus sanguinipes entomopoxvirus]	7760	6576	152	530	7.08e-37	151	398	25.1	276	10
+contig_11	YP_010087922.1 RNA-dependent DNA polymerase [Lymphocystis disease virus 4]	2772	3773	85	421	4.66e-23	108	339	25.4	246	5
+contig_11	YP_073558.1 RNA-dependent DNA polymerase [lymphocystis disease virus-China]	2892	3773	131	422	4.63e-22	105	295	27.5	210	4
+contig_11	YP_009342179.1 RNA-dependent DNA polymerase [Lymphocystis disease virus Sa]	2886	3773	132	426	4.78e-21	102	297	25.3	219	3
+contig_11	YP_010778573.1 putative Non-LTR retrotransposon [Bodo saltans virus]	7724	6951	234	494	1.01e-11	74.3	266	22.2	194	6
+contig_11	YP_010803941.1 reverse transcriptase [Fadolivirus algeromassiliense]	7733	6903	222	505	1.92e-09	66.6	286	22.0	212	6
+contig_11	YP_009001626.1 reverse transcriptase [Alphaentomopoxvirus acuprea]	3330	3755	77	199	7.60e-04	47.4	143	24.5	87	4

@@ -1,0 +1,80 @@
+# DIAMOND v2.0.11. http://github.com/bbuchfink/diamond
+# Invocation: diamond blastx --very-sensitive --threads 8 --db /projects/medium/whitefly_ont/diamond/virusdb.dmnd --header --outfmt 6 qtitle stitle qstart qend sstart send evalue bitscore length pident mismatch gapopen --query /projects/medium/whitefly_ont/polishing/medaka_bc41_meta/consensus.fasta -o diamond_blastx_virus_bc41_meta.csv
+# Fields: Query title, Subject title, Start of alignment in query, End of alignment in query, Start of alignment in subject, End of alignment in subject, Expected value, Bit score, Alignment length, Percentage of identical matches, Number of mismatches, Number of gap openings
+contig_8	YP_010084323.1 movement protein (MP) [Begomovirus manihotisburkinafasoense]	1214	1981	1	256	3.58e-162	476	256	91.0	23	0
+contig_8	YP_010084324.1 nuclear shuttle protein (NSP) [Begomovirus manihotisburkinafasoense]	2706	1996	62	298	2.30e-155	460	237	94.5	13	0
+contig_8	YP_009547945.1 MP [Desmodium mottle virus]	2706	1996	62	301	3.45e-117	362	240	76.3	54	2
+contig_8	YP_009508142.1 movement protein [Rhynchosia yellow mosaic virus]	2706	1996	63	298	7.34e-100	316	239	66.9	74	2
+contig_8	YP_001333683.1 MP protein [Kudzu mosaic virus]	2706	1996	63	298	1.44e-99	315	239	66.1	76	2
+contig_8	NP_803153.1 BC1 protein [Mungbean yellow mosaic India virus]	2706	1996	87	322	2.29e-99	316	240	67.9	70	3
+contig_8	NP_981941.1 BC1 protein [Horsegram yellow mosaic virus]	2706	1996	63	298	1.15e-97	310	239	65.7	77	2
+contig_8	NP_620378.1 movement protein [Mungbean yellow mosaic virus]	2706	1996	63	298	2.38e-96	307	239	65.3	78	2
+contig_8	YP_003254643.1 BC1 protein [Velvet bean severe mosaic virus]	2706	1996	63	298	6.85e-95	303	239	62.8	84	2
+contig_8	YP_009055066.1 BC1 [Dolichos yellow mosaic virus]	2706	1996	63	297	3.55e-94	301	245	64.9	68	4
+contig_8	YP_004123938.1 movement protein [Rhynchosia yellow mosaic India virus]	2706	1996	85	319	3.75e-94	302	239	64.4	79	3
+contig_8	YP_009547944.1 NSP [Desmodium mottle virus]	1283	1981	27	259	5.61e-84	273	233	58.4	97	0
+contig_8	YP_004958236.1 movement protein [West African Asystasia virus 1]	2706	1996	62	314	3.61e-79	262	255	56.5	91	4
+contig_8	YP_010839394.1 BC1 [West African Asystasia virus 1]	2706	1996	62	314	1.89e-78	260	255	55.7	93	4
+contig_8	YP_009055065.1 BV1 [Dolichos yellow mosaic virus]	1331	1981	46	261	2.50e-78	258	217	56.7	93	1
+contig_8	YP_009256566.1 BC1 [Cotton yellow mosaic virus]	2706	1996	61	299	6.16e-77	255	243	56.0	97	5
+contig_8	YP_010839296.1 BC1 [Cotton yellow mosaic virus]	2706	1996	61	299	6.16e-77	255	243	56.0	97	5
+contig_8	NP_620300.1 BC1 [Watermelon chlorotic stunt virus]	2706	1996	61	306	4.00e-76	253	252	52.8	98	4
+contig_8	NP_803874.1 movement protein [East African cassava mosaic Cameroon virus]	2706	1996	62	307	5.73e-76	253	253	54.9	91	4
+contig_8	NP_808890.1 movement protein [East African cassava mosaic Zanzibar virus]	2706	1996	62	307	5.73e-76	253	253	54.5	92	4
+contig_8	YP_009241408.1 movement protein [Deinbollia mosaic virus]	2706	1996	38	283	1.00e-75	251	252	53.6	96	3
+contig_8	YP_002317401.1 BC1 [East African cassava mosaic Kenya virus]	2706	1996	62	307	2.14e-75	251	253	54.2	93	4
+contig_8	YP_001333682.1 NSP protein [Kudzu mosaic virus]	1325	1981	41	259	3.33e-75	249	219	55.3	98	0
+contig_8	YP_009121935.1 movement protein [Asystasia mosaic Madagascar virus]	2706	1996	71	323	3.52e-75	251	257	52.9	97	4
+contig_8	NP_817129.1 BC1 protein [East African cassava mosaic virus]	2706	1996	62	307	4.13e-75	251	249	53.4	101	3
+contig_11	YP_009508152.1 replication associated protein [Tobacco leaf curl Comoros virus]	5007	3934	1	358	1.04e-218	652	358	84.9	54	0
+contig_11	YP_010087822.1 replication associated protein [Ocimum golden mosaic virus]	5007	3934	1	358	1.04e-218	652	358	83.8	58	0
+contig_11	YP_009506551.1 replication-associated protein [Tomato leaf curl Uganda virus - [Iganga]]	5007	3949	1	353	1.46e-218	652	353	85.3	52	0
+contig_11	YP_009259496.1 AC1 [Telfairia golden mosaic virus]	2223	1165	1	353	3.07e-213	638	353	84.1	56	0
+contig_11	YP_009047200.1 Replication Initiator Protein [Mirabilis leaf curl virus]	5007	3949	1	353	9.07e-211	631	353	84.1	56	0
+contig_11	YP_009256563.1 AC1 [Cotton yellow mosaic virus]	5007	3949	1	353	3.42e-209	627	353	81.6	65	0
+contig_11	YP_010839293.1 AC1 [Cotton yellow mosaic virus]	5007	3949	1	353	3.42e-209	627	353	81.6	65	0
+contig_11	NP_620867.1 replication-associated protein [Sri Lankan cassava mosaic virus-[Colombo]]	5007	3958	1	350	3.69e-209	627	350	82.6	61	0
+contig_11	YP_213943.1 replication-associated protein [Tomato leaf curl Mayotte virus]	5025	3934	16	379	2.50e-204	615	364	79.4	75	0
+contig_11	YP_009174975.1 replication-associated protein [Tomato leaf curl Comoros virus]	5004	3934	3	359	3.59e-202	608	357	80.4	70	0
+contig_11	YP_213935.1 replication-associated protein [Tomato leaf curl Madagascar virus-Menabe [Madagascar:Morondova:2001]]	4995	3934	6	359	7.03e-202	608	354	79.9	71	0
+contig_11	YP_001661654.1 replication-associated protein [Tomato leaf curl Ghana virus]	5007	3934	1	359	7.36e-201	605	359	79.1	74	1
+contig_11	YP_009506420.1 AC1 protein [Hedyotis uncinella yellow mosaic virus]	4995	3937	6	358	3.14e-200	603	353	79.6	72	0
+contig_11	YP_009344823.1 replication associated protein [Pea leaf distortion virus]	5007	3946	1	354	1.20e-199	602	354	80.5	69	0
+contig_11	YP_006469.1 replication-associated protein [Tomato leaf curl Sudan virus]	4995	3934	6	359	2.10e-199	601	354	78.2	77	0
+contig_11	YP_009345717.1 replication associated protein [Tomato leaf curl Burkina Faso virus]	2211	1159	6	356	2.94e-199	601	351	78.6	75	0
+contig_11	NP_803243.1 replication-associated protein [Tomato leaf curl Laos virus]	5004	3940	3	357	3.05e-199	601	355	78.9	75	0
+contig_11	YP_009137892.1 replication-associated protein [Ageratum yellow vein virus]	4995	3925	6	362	3.29e-199	601	357	79.0	75	0
+contig_11	YP_002643049.1 replication-associated protein [Tomato leaf curl Nigeria virus-[Nigeria:2006]]	4995	3934	6	359	4.11e-199	600	354	78.0	78	0
+contig_11	NP_803141.1 Rep [Cotton leaf curl Multan virus]	4995	3949	6	354	1.82e-198	599	349	80.2	69	0
+contig_11	YP_010797492.1 C1 protein [Hibiscus vein enation virus]	4995	3949	6	354	3.56e-198	598	349	79.9	70	0
+contig_11	YP_009143526.1 Replication Associate Protein [Tomato yellow leaf curl Mali virus]	4995	3934	6	359	8.40e-198	597	354	78.5	76	0
+contig_11	NP_786880.1 replication associated protein C1 [Tomato yellow leaf curl Malaga virus]	4995	3934	6	359	8.40e-198	597	354	77.4	80	0
+contig_11	YP_010084329.1 replication associated protein (Rep) [Begomovirus manihotisburkinafasoense]	5007	3934	1	359	1.17e-197	597	359	77.2	81	1
+contig_11	NP_620665.1 replicase [South African cassava mosaic virus]	5004	3970	3	347	1.36e-197	596	345	80.9	66	0
+contig_5	YP_010084324.1 nuclear shuttle protein (NSP) [Begomovirus manihotisburkinafasoense]	3186	2374	28	298	1.37e-181	533	271	96.3	10	0
+contig_5	YP_010084323.1 movement protein (MP) [Begomovirus manihotisburkinafasoense]	1592	2359	1	256	5.20e-170	501	256	94.9	13	0
+contig_5	YP_009547945.1 MP [Desmodium mottle virus]	3186	2374	28	301	4.15e-139	423	274	77.0	60	2
+contig_5	YP_009508142.1 movement protein [Rhynchosia yellow mosaic virus]	3186	2374	29	298	4.89e-121	375	273	68.1	82	2
+contig_5	YP_001333683.1 MP protein [Kudzu mosaic virus]	3186	2374	29	298	7.27e-120	372	273	67.0	85	2
+contig_5	NP_981941.1 BC1 protein [Horsegram yellow mosaic virus]	3186	2374	29	298	3.14e-117	365	273	67.4	84	2
+contig_5	NP_803153.1 BC1 protein [Mungbean yellow mosaic India virus]	3186	2374	53	322	5.13e-117	366	274	67.9	81	3
+contig_5	YP_009055066.1 BC1 [Dolichos yellow mosaic virus]	3186	2374	29	297	2.29e-116	363	279	67.0	74	4
+contig_5	NP_620378.1 movement protein [Mungbean yellow mosaic virus]	3186	2374	29	298	6.50e-116	362	273	67.0	85	2
+contig_5	YP_003254643.1 BC1 protein [Velvet bean severe mosaic virus]	3183	2374	30	298	5.41e-113	354	272	64.0	93	2
+contig_5	YP_004123938.1 movement protein [Rhynchosia yellow mosaic India virus]	3183	2374	52	319	3.04e-112	353	272	65.4	88	3
+contig_5	NP_620300.1 BC1 [Watermelon chlorotic stunt virus]	3186	2374	27	306	6.16e-98	315	286	55.2	107	3
+contig_5	YP_004958236.1 movement protein [West African Asystasia virus 1]	3183	2374	29	314	8.04e-98	315	286	57.7	105	3
+contig_5	YP_010839394.1 BC1 [West African Asystasia virus 1]	3183	2374	29	314	1.59e-96	311	286	57.0	107	3
+contig_5	YP_009121935.1 movement protein [Asystasia mosaic Madagascar virus]	3183	2374	38	323	1.13e-94	306	290	54.8	107	4
+contig_5	NP_808890.1 movement protein [East African cassava mosaic Zanzibar virus]	3186	2374	28	307	6.76e-94	304	287	55.4	105	4
+contig_5	YP_009256566.1 BC1 [Cotton yellow mosaic virus]	3183	2374	28	299	1.00e-93	303	276	56.5	110	5
+contig_5	YP_010839296.1 BC1 [Cotton yellow mosaic virus]	3183	2374	28	299	1.00e-93	303	276	56.5	110	5
+contig_5	YP_002317401.1 BC1 [East African cassava mosaic Kenya virus]	3186	2374	28	307	2.53e-93	302	287	55.1	106	4
+contig_5	NP_803874.1 movement protein [East African cassava mosaic Cameroon virus]	3186	2374	28	307	3.53e-93	302	287	55.4	105	4
+contig_5	NP_817129.1 BC1 protein [East African cassava mosaic virus]	3186	2374	28	307	4.91e-93	301	283	54.4	114	3
+contig_5	YP_008719943.1 MP [East African cassava mosaic Malawi virus]	3186	2374	60	339	1.01e-92	302	287	55.1	106	4
+contig_5	YP_003622562.1 movement protein [Soybean chlorotic blotch virus]	3183	2374	89	363	1.13e-91	300	277	55.6	114	4
+contig_5	NP_620668.1 BC1 [South African cassava mosaic virus]	3186	2374	28	307	2.57e-91	297	287	53.3	111	4
+contig_5	YP_009241408.1 movement protein [Deinbollia mosaic virus]	3168	2374	10	283	3.12e-89	290	280	53.9	108	3
+contig_7	YP_516221.1 hypothetical protein SGPHI_0043 [Sodalis phage phiSG1]	3415	3197	137	209	1.45e-07	57.0	73	35.6	47	0
+contig_7	YP_001039867.1 transcriptional regulator [Vibrio phage VP882]	3829	3176	12	233	2.47e-06	53.5	231	23.8	154	6
